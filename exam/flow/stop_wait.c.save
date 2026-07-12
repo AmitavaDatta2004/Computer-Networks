@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<unistd.h>
+
+int main(){
+	int n,i;
+	printf("Enter the number of frames to bes sent:");
+	scanf("%d",&n);
+	
+for(i=0;i<n;i++){
+	
